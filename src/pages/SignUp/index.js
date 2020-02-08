@@ -61,7 +61,7 @@ export default function SignUp({navigation}) {
           onPress={() => {
             navigation.navigate('SignIn');
           }}>
-          <SignLinkText> Já tenho cotna </SignLinkText>
+          <SignLinkText> Já tenho conta </SignLinkText>
         </SignLink>
       </Container>
     </Background>
